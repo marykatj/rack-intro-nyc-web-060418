@@ -6,5 +6,9 @@ class Application
     resp.finish
   end
 
+  def last_response 
+    puts "Hello, my name is"
+  end
+
 end
 
