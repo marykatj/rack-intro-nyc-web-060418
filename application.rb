@@ -7,8 +7,7 @@ class Application
   end
 
   def finish
-    puts "Hello, World"
+    puts "Hello, my name is"
   end
 
 end
-
